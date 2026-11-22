@@ -22,5 +22,5 @@ only Python and NumPy</h3>
 <h3>Artificial Neural Network Screenshot:</h3>
 
 <div align="center">
-  <img src="" alt="MLP Screenshot" width="750"><br><br>
+  <img src="img/mlp-diagram.png" alt="MLP Screenshot" width="750"><br><br>
 </div>
