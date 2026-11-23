@@ -8,7 +8,7 @@
   <h2>Artificial Neural Network from Scratch</h2>
 </div>
 
-<h3>Implementation of a Multilayer Perceptron (MLP) built without PyTorch or TensorFlow libraries.</h3>
+<h3>Implementation of a Multilayer Perceptron (MLP) built without PyTorch or TensorFlow libraries</h3>
 
 This project demonstrates how an Artificial Neural Network works under the hood by building every
 mathematical component from scratch using only Python and NumPy.<br>
