@@ -8,9 +8,10 @@
   <h2>Rede Neural Artificial do Zero</h2>
 </div>
 
-<h3>Implementação de um Perceptron Multicamadas (MLP) construído sem as bibliotecas PyTorch ou TensorFlow. Este projeto demonstra
-como uma Rede Neural Artificial funciona "dentro da caixa preta", construindo cada componente matemático do zero usando
-apenas Python e NumPy</h3>
+<h3>Implementação de um Perceptron Multicamadas (MLP) construído sem as bibliotecas PyTorch ou TensorFlow</h3>
+
+Este projeto demonstra como uma Rede Neural Artificial funciona "dentro da caixa preta", construindo cada componente
+matemático do zero usando apenas Python e NumPy.<br>
 
 <h3>Tecnologias e Detalhes Técnicos</h3>
 
